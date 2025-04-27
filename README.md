@@ -4,7 +4,7 @@ This is my final year computer science project on DDPMs.
 I trained my DDPM model using (CelebA) Dataset found here "https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html"
 
 How to set up files
-Downalod the files "Final_FID.py", "Final_gui.py", "Final_modules.py", "Final_utils.py" and "Final_ddpm.py" rename the files to remove "Final_".
+Download the files "Final_FID.py", "Final_gui.py", "Final_modules.py", "Final_utils.py" and "Final_ddpm.py" rename the files to remove "Final_".
 
 Set up your folder like this:
 root
